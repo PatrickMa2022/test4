@@ -1,0 +1,17 @@
+---
+title: "CONTACT"
+background_image: "horse.JPG"
+photo: "swim.png"
+description: ""
+
+email:
+  address: "pma2022@gmail.com"
+  link: false
+  icon: "fa-envelope"
+  icon-pack: "fas"
+
+social:
+- icon: "fa-instagram"
+  icon_pack: "fab"
+  link: "//instagram.com/_patrickma_/"
+---
